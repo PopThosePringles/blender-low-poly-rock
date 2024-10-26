@@ -1,3 +1,7 @@
+Use new location, as I changed my username: https://github.com/CommanderFoo/blender-low-poly-rock/
+
+---
+
 ## Blender (2.8+) - Low Poly Rock Generator
 
 This is an [addon](https://docs.blender.org/manual/en/latest/editors/preferences/addons.html) for [Blender](https://www.blender.org/) 2.8+ to generate low poly rocks.  
